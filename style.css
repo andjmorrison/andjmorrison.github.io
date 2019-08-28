@@ -2,16 +2,16 @@
 
 body{
       font-family:'Courier New', Courier, monospace;
-      text-align: center;
+      text-align:center;
 }
 
 article{
-      font: size 12;
-      white-space: normal;
-      text-align: center;
-      size=400px;
+      font:size 12;
+      white-space:normal;
+      text-align:center;
+      size:400px;
 }
 
 #footer{
-      font: size 10
+      font:size 08
 }
