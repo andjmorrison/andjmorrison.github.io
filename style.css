@@ -3,13 +3,13 @@
 body{
       font-family:'Courier New', Courier, monospace;
       text-align: center;
-
 }
 
 article{
       font: size 12;
       white-space: normal;
       text-align: center;
+      size=400px;
 }
 
 #footer{
